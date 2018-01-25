@@ -1,4 +1,6 @@
-# Jekyll [![Badge](https://img.shields.io/badge/built%20with-wedeploy-00d46a.svg?style=flat)](http://wedeploy.com)
+[![Deploy](https://cdn.wedeploy.com/images/deploy.svg)](https://console.wedeploy.com/deploy?repo=https://github.com/wedeploy-examples/jekyll-example)
+
+# Jekyll
 
 A demo of [Jekyll](https://hub.docker.com/r/jekyll/jekyll/) on [WeDeploy](https://wedeploy.com/).
 
