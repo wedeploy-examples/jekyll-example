@@ -1,5 +1,7 @@
 {
   "id": "jekyll",
   "port": 4000,
-  "volume": "/srv/jekyll"
+  "volumes": {
+    "app": "/src/jekyll"
+  }
 }
